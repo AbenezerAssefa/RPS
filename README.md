@@ -47,9 +47,9 @@
 
 # 🚀 Live Demo <a name="live-demo"></a>
 
-[Link to live demo]()
+[Link to live demo](https://abenezerassefa.github.io/RPS/)
 
-[Rock Paper SCissor📝]()
+[Rock Paper SCissor📝](https://abenezerassefa.github.io/RPS/)
 
 ### Server
 
@@ -73,7 +73,7 @@
 1. Installed Git.
 2. Create a local directory that you want to clone the repository.
 3. Open the command prompt in the created directory.
-4. On the terminal run this command git clone <>
+4. On the terminal run this command git clone <https://abenezerassefa.github.io/RPS/>
 5. Install the dev dependencies for linters run npm install.
 
 
